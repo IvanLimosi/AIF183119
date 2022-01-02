@@ -4787,8 +4787,8 @@ diketahui oleh server.
 
 1004
 00:41:14,900 --> 00:41:17,290
-So this has the
-nice property that
+Jadi ini memiliki
+properti yang bagus
 
 1005
 00:41:17,290 --> 00:41:19,350
